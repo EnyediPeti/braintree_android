@@ -13,7 +13,7 @@
 	<string name="bt_default_action_bar_text">Fizetés</string>
 
 	<!-- Note: %s is a place holder and should be left in translated strings -->
-	<string name="bt_card_descriptor">lejár %s</string>
+	<string name="bt_card_descriptor">%s-gyel végződő</string>
 
 	<string name="bt_pay_with_paypal">PayPal fizetés</string>
 	<string name="bt_pay_with_venmo">Venmo fizetés</string>
